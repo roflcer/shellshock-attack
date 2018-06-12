@@ -1,0 +1,2 @@
+# shellshock-attack
+On September 24, 2014, a severe vulnerability in Bash was identified. Nicknamed Shellshock, this vulner- ability can exploit many systems and be launched either remotely or from a local machine. In this lab, you  will work on this attack, so you can understand the Shellshock vulnerability. The learning objective of this lab is for you to get a first-hand experience on this interesting attack, understand how it works, and think about the lessons that we can get out of this attack.
